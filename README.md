@@ -1,6 +1,7 @@
 <h1>Hi there 👋, MySelf Yash Tank</h1>
-<p>Recent Postgraduate with strong academic knowledge in software development, proficient in Java and JavaScript.
-Seeking a Software Developer role. </p>
+<p>Seeking an entry-level software developer role where a strong academic background and proficiency in Java and
+JavaScript technologies can be leveraged. Dedicated to continuous learning and ready to apply problem-solving skills
+to real-world projects, enhance technical expertise, and contribute meaningfully to a dynamic development team. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
